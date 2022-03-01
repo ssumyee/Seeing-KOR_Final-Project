@@ -1,7 +1,7 @@
 
   This is Final Project of the class 'Seeing Korea', made by Sumi Kim.
 
-  If you want to know the way of making this game,
+  If you want to reference the process of game development,
   please look up the file 'SeeingKOR_Final_Project_SumiKim.ipynb'.
 
   ## How to Play the game 'The Host'
